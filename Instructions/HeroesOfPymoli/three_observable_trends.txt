@@ -1,0 +1,7 @@
+Three observable trends based on the 'Heroes of Pymoli' data:
+
+ 1) Most of the players are male (84%).
+ 2) All genders spend about the same amount on each purchase ($4.00 - $4.60) with
+    males puchasing the lowest amount on average ($4.07)
+    but much more frequently.
+ 3) Nearly half (45%) of players are in their early 20's (20-24).
